@@ -7,8 +7,8 @@ Car Window Tint  Checking Tool
               ![alt tag](https://raw.githubusercontent.com/L-M-V-A/Tntr/master/main/app/src/main/res/drawable/logo.png)
 
 Group Project compossed by: 
-#Malik Butler
-#Mike Anderson
-#Danna Useche
-#Cesar Higa
-#Luis Vega
+Malik Butler
+Mike Anderson
+Danna Useche
+Cesar Higa
+Luis Vega
