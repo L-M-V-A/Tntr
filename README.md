@@ -1,6 +1,8 @@
+
+![alt tag](https://raw.githubusercontent.com/L-M-V-A/Tntr/master/main/app/src/main/res/drawable/logo.png)
 # Tntr
 
-  ![alt tag](https://raw.githubusercontent.com/L-M-V-A/Tntr/master/main/app/src/main/res/drawable/logo.png)
+  
 
 Car Window Tint  Checking Tool
 
